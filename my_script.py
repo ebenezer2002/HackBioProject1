@@ -1,6 +1,6 @@
 Name = "Yukeswaran Loganathan"
 Email = "yukeswaran.bt19@bitsathy.ac.in"
-Slack_username = "@yukesh"
+Slack_username = "@yukesh      "
 Biostack = "drug development"
 Twitter_Handle = "@yukeswaran30"
 hamming_disatance = "7"
