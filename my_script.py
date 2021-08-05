@@ -1,5 +1,6 @@
-print("Name:Yukeswaran Loganathan")
-print("Email:yukeswaran.bt19@bitsathy.ac.in")
-print("Slack_username:@yukesh")
-print("Biostack:drug development")
-print("Twitter_Handle:@yukeswaran30")
+Name = "Yukeswaran Loganathan"
+Email = "yukeswaran.bt19@bitsathy.ac.in"
+Slack_username = "@yukesh"
+Biostack = "drug development"
+Twitter_Handle = "@yukeswaran30"
+print(Name,',',Email,',',Slack_username,',',Biostack,',',Twitter_Handle)
