@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 # a function that calculates the hamming distance
 # between my slack handle and twitter handle
 def hammingDistance(str1, str2):
