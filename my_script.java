@@ -5,11 +5,8 @@ public class HackBioProject {
         String biostack = "Data Science";
         String twitterHandle = "EbenezerNyenwe";
         int hammingDistance = calculateHammingDistance(slackUsername,twitterHandle);
-        System.out.println(email);
-        System.out.println(slackUsername);
-        System.out.println(biostack);
-        System.out.println(twitterHandle);
-        System.out.println(hammingDistance);
+        System.out.println(email +","+slackUsername+"," + biostack + "," + twitterHandle +"," + hammingDistance);
+       
         
     }
   static int calculateHammingDistance(String str1, String str2){
