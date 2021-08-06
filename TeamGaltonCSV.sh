@@ -2,7 +2,7 @@
 REPO=https://github.com/ebenezer2002/HackBioProject1.git
 OUTPUT_FILE=Team-Galton.csv
 git clone $REPO
-cd ./Team-Galton/HackBioProject1-main
+cd Team-Galton/HackBioProject1-main
 
 for file in $(ls);
 do
