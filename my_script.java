@@ -1,10 +1,10 @@
-class HackBioProject {
+public class HackBioProject {
     public static void main(String[] args) {
         String email = "enyenwe@xula.edu"; 
         String slackUsername = "@Ebenezer";
         String biostack = "Data Science";
         String twitterHandle = "EbenezerNyenwe";
-        int hammingDistance = calculateHammingDistance(slackUsername,twitterHandle)
+        int hammingDistance = calculateHammingDistance(slackUsername,twitterHandle);
         System.out.println(email);
         System.out.println(slackUsername);
         System.out.println(biostack);
